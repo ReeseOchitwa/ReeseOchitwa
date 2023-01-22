@@ -5,15 +5,15 @@
 - <b>HTML and CSS</b>
   - [Praciting DS & Algos in Python](https://github.com/ReeseOchitwa/project)
 - <b>Python</b>
-  - [Image Analysis Middleware](https://github.com/ReeseOchitwa/project)
+  - [Tic Tac Toe](https://github.com/ReeseOchitwa/project)
+- <b>Trinket Portfolio - Shulich Ingnite Beginner Program</b>
+  - [Trinket](https://trinket.io/library/folder/portfolio)
 
 <h2>📺 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Responsive Web Development Certificate (freeCodeCamp)](https://www.freecodecamp.org/certification/fcc267c02a7-5908-4108-a578-abd55be80f96/responsive-web-design)
+- [Shulich Beginner Python Course 8-Weeks](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+
 
 <h2> 🤳 Connect with me:</h2>
 
