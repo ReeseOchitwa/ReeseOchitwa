@@ -5,7 +5,7 @@
 - <b>HTML and CSS</b>
   - [Praciting DS & Algos in Python](https://github.com/ReeseOchitwa/project)
 - <b>Python</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/ReeseOchitwa/project)
 
 <h2>📺 Certifications</h2>
 
