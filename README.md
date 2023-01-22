@@ -3,11 +3,19 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>HTML and CSS</b>
-  - [Praciting DS & Algos in Python](https://github.com/ReeseOchitwa/project)
+  - [Portfolio - freeCodeCamp](https://github.com/ReeseOchitwa/portfolio)
+  - [Technical Navigation]
+  - [Survey Form]
+  - [Product Landing Page]
+  - [Portfolio - CareerFoundry]
 - <b>Python</b>
   - [Tic Tac Toe](https://github.com/ReeseOchitwa/project)
-- <b>Trinket Portfolio - Shulich Ingnite Beginner Program</b>
-  - [Trinket](https://trinket.io/library/folder/portfolio)
+  - [Hangman]
+- <b>Shulich Ingnite Beginner Program - Python</b>
+  - [Basketball](https://trinket.io/library/folder/portfolio)
+  - [Side Scroller]
+  - [Brick Breaker]
+  - [Space Invaders]
 
 <h2>📺 Certifications</h2>
 
