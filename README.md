@@ -12,11 +12,12 @@
 - <b>Python</b>
   - [Tic Tac Toe](https://github.com/ReeseOchitwa/project)
   - [Hangman](https://github.com/ReeseOchitwa/Hangman)
-- <b>Shulich Ingnite Beginner Program - Python</b>
+- <b>Shulich Ingnite Program - Python</b>
   - [Basketball](https://trinket.io/python/4e46265c27)
   - [Side Scroller](https://trinket.io/python/8fd8a3b9b4)
   - [Brick Breaker](https://trinket.io/python/c75e70b8d7)
   - [Space Invaders](https://trinket.io/python/97c739397c)
+  - [Pygame]([g](https://github.com/ReeseOchitwa/Pygame))
 
 <h2>📺 Certifications</h2>
 
