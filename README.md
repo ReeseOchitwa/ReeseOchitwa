@@ -17,7 +17,7 @@
   - [Side Scroller](https://trinket.io/python/8fd8a3b9b4)
   - [Brick Breaker](https://trinket.io/python/c75e70b8d7)
   - [Space Invaders](https://trinket.io/python/97c739397c)
-  - [Pygame]([g](https://github.com/ReeseOchitwa/Pygame))
+  - [Pygame](https://github.com/ReeseOchitwa/Pygame)
 
 <h2>📺 Certifications</h2>
 
