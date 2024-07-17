@@ -36,7 +36,7 @@
 [youtube]: https://www.youtube.com/@reeseochitwa8319
 [instagram]: https://www.instagram.com/reese._.o/
 [linkedin]: https://linkedin.com/in/ 
-<p> Linkedin - Coming in July </p>
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
