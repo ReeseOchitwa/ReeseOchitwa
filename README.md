@@ -32,8 +32,7 @@
 [<img align="left" alt="ReeseOchitwa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ReeseOchitwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/HologramPhoenix
-[youtube]: https://www.youtube.com/@reeseochitwa8319
+
 [instagram]: https://www.instagram.com/reese._.o/
 [linkedin]: https://linkedin.com/in/ 
 
